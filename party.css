@@ -35,3 +35,25 @@ h1{
   bottom: -1300px;
   width: 550px;
 }
+
+#question{
+   position: absolute;
+  right: -810px;
+  bottom: 1800px;
+  color: white;
+}
+
+#link1{
+   position: absolute;
+  right: -610px;
+  bottom: 2100px;
+  color: white;
+}
+
+#link2{
+   position: absolute;
+  right: -1010px;
+  bottom: 2100px;
+  color: white;
+}
+
