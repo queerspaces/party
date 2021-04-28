@@ -38,22 +38,28 @@ h1{
 
 #question{
    position: absolute;
-  right: -810px;
-  bottom: 1800px;
-  color: white;
+  right: -10px;
+  bottom: 80px;
+  color: #eb4034;
+  font-size: 50px;
+  background-color: #a5a2a6;
+  display: table;
 }
 
 #link1{
    position: absolute;
-  right: -610px;
-  bottom: 2100px;
-  color: white;
+  right: -30px;
+  bottom: -550px;
+  font-size: 60px;
+  background-color: #a5a2a6;
+  display: table;
 }
 
 #link2{
    position: absolute;
-  right: -1010px;
-  bottom: 2100px;
-  color: white;
+  right: -80px;
+  bottom: -850px;
+  font-size:40px;
+  background-color: #a5a2a6;
+  display: table;
 }
-
