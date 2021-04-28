@@ -1,0 +1,37 @@
+body {
+
+  width:2000px;
+  height:2000px;
+
+  background-image:
+  url('https://i.imgur.com/dHOSOAR.png');
+
+  background-repeat: repeat;
+
+  background-attachment: scroll;
+
+  background-position:
+
+  0px 0px;
+
+  background-size:
+  1000px 500px;
+
+
+}
+
+h1{
+  color: white;
+}
+
+#poem{
+  background-color: black;
+  color: white;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  right: -810px;
+  bottom: -1300px;
+  width: 550px;
+}
